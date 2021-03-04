@@ -4,6 +4,8 @@ module.exports = {
   theme: 'reco',
   themeConfig: {
     type: 'blog',
+    author: 'liihom',
+    authorAvatar: '/cat.jpeg',
     lastUpdated: 'Last Updated',
     nav: [
       { text: 'Home', link: '/' },
