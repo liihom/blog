@@ -2,6 +2,7 @@ module.exports = {
   title: 'Hello World',
   description: 'Just playing around',
   theme: 'reco',
+  base: '/blog/',
   themeConfig: {
     type: 'blog',
     author: 'liihom',
