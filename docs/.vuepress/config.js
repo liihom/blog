@@ -25,6 +25,7 @@ module.exports = {
         ['react', 'React'],
         ['node', 'Node.js'],
       ],
-    }
+    },
+    subSidebar: 'auto',
   }
 }
